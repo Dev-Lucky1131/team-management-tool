@@ -1,18 +1,14 @@
 # team-management-tool
 
-[Visit to] http://team-management-timezone.vercel.app<br/>
+[Visit to the live site](http://team-management-timezone.vercel.app)
 
-![Team Management Tool Screenshot](https://i.ibb.co/pjS9BNNn/Screenshot-69.png)
+![Team Management Tool](./images/Screenshot_70.png)
 
+This project key functions:  
+- Manage members in dashboard  
+- Member personal information (name, group, timezone, working hour, current time, working status)
 
-
-This project key functions;<br/>
-
--manage members in dashboard.<br/>
--member personal information(name, group, timezone, working hour, current time, working status)<br />
-
-developer contact
-
-telegram : @bestfriend1131 <br/>
-skype : live:.cid.a4ed8822d96581bb<br/>
-discord : dfgrdtgdh, kind_0001, m.s_1012<br/>
+Developer Contact:  
+- Telegram: @bestfriend1131  
+- Skype: live:.cid.a4ed8822d96581bb  
+- Discord: dfgrdtgdh, kind_0001, m.s_1012
