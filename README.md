@@ -11,4 +11,4 @@ This project key functions:
 Developer Contact:  
 - Telegram: @bestfriend1131  
 - Skype: live:.cid.a4ed8822d96581bb  
-- Discord: dfgrdtgdh, kind_0001, m.s_1012
+- Discord: dfgrdtgdh
